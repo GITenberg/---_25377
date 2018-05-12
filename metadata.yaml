@@ -1,0 +1,27 @@
+_repo: '---_25377'
+_version: 0.1.0
+alternative_title: Jing hua yuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Li, Ruzhen
+    alias: 李汝珍
+    gutenberg_agent_id: '31289'
+    url: http://www.gutenberg.org/2009/agents/31289
+description: ''
+gutenberg_issued: '2008-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25377'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction, Chinese'
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+title: 鏡花緣
+url: http://www.gutenberg.org/ebooks/25377
